@@ -1,0 +1,16 @@
+/.env
+/.php-cs-fixer.php
+/.phpunit.result.cache
+/box.json
+/compose.override.yaml
+/composer.lock
+/dev-tools/bin/
+/dev-tools/infection/
+/dev-tools/phpstan/cache/
+/dev-tools/vendor/
+/infection.json5
+/php-cs-fixer.phar.asc
+/phpstan.neon
+/vendor/
+
+xdebug.log
