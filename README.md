@@ -1,5 +1,9 @@
 <p align="center"><a href="https://qubenext.com" target="_blank"><img src="./logo.svg" width="400" alt="Laravel Logo"></a></p>
 
+### Install
+```shell
+composer require aamroni/stripe
+```
 
 ### Config Example
 Collect your public and secret keys, and configure as necessary in config/payment.php
